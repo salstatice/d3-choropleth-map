@@ -1,0 +1,23 @@
+#container {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1rem;
+  font-weight: 300;
+}
+/* svg {
+  background: beige;
+} */
+
+#tooltip {
+  border: solid 1px black;
+  padding: 5px;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.9)
+}
